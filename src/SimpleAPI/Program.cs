@@ -25,7 +25,7 @@ app.UseHttpsRedirection();
 
 var summaries = new[]
 {
-    "1Freezing", "2Bracing", "3Chilly", "4Cool", "5Mild", "6Warm", "7Balmy", "8Hot", "9Sweltering", "10Scorching"
+    "Freezing", "2Bracing", "3Chilly", "4Cool", "5Mild", "6Warm", "7Balmy", "8Hot", "9Sweltering", "10Scorching"
 };
 
 app.MapControllers();
